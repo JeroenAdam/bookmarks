@@ -1,5 +1,7 @@
 # bookmarks
 
+https://cloudblogs.microsoft.com/windowsserver/2018/04/12/announcing-windows-admin-center-our-reimagined-management-experience/
+
 http://www.reddit.com/r/ITdept
 
 http://www.reddit.com/r/sysadmin
