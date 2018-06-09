@@ -1,10 +1,10 @@
 # bookmarks
 
+https://docs.microsoft.com/en-us/azure/azure-stack
 
+https://cloudblogs.microsoft.com/windowsserver/2018/04/12/announcing-windows-admin-center-our-reimagined-management-experience
 
-https://cloudblogs.microsoft.com/windowsserver/2018/04/12/announcing-windows-admin-center-our-reimagined-management-experience/
-
-https://azure.microsoft.com/en-us/solutions/architecture/hybrid-ci-cd/
+https://azure.microsoft.com/en-us/solutions/architecture/hybrid-ci-cd
 
 http://www.reddit.com/r/ITdept
 
@@ -14,16 +14,8 @@ https://www.reddit.com/r/usefulscripts
 
 http://www.reddit.com/user/crankysysadmin
 
-http://www.reddit.com/r/techsupport
-
-http://www.reddit.com/r/talesfromtechsupport
-
-http://www.reddit.com/r/techsupportgore
-
 http://www.reddit.com/r/PowerShell
 
 http://www.reddit.com/r/sharepoint
-
-http://www.reddit.com/r/homelab
 
 http://www.reddit.com/r/HyperV
