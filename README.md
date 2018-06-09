@@ -1,6 +1,10 @@
 # bookmarks
 
+
+
 https://cloudblogs.microsoft.com/windowsserver/2018/04/12/announcing-windows-admin-center-our-reimagined-management-experience/
+
+https://azure.microsoft.com/en-us/solutions/architecture/hybrid-ci-cd/
 
 http://www.reddit.com/r/ITdept
 
