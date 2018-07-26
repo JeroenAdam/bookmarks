@@ -14,6 +14,8 @@ http://www.reddit.com/user/crankysysadmin
 
 http://www.reddit.com/r/PowerShell
 
+https://www.reddit.com/r/linux
+
 https://www.reddit.com/r/linuxquestions
 
 https://www.reddit.com/r/web_design
