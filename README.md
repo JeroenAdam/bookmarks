@@ -16,6 +16,8 @@ http://www.reddit.com/r/PowerShell
 
 https://www.reddit.com/r/linuxquestions
 
+https://www.reddit.com/r/web_design
+
 https://www.reddit.com/r/nodered
 
 http://www.reddit.com/r/sharepoint
