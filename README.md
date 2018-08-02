@@ -18,6 +18,8 @@ https://www.reddit.com/r/linux
 
 https://www.reddit.com/r/linuxquestions
 
+https://www.reddit.com/r/programming
+
 https://www.reddit.com/r/web_design
 
 https://www.reddit.com/r/nodered
