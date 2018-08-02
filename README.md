@@ -2,7 +2,7 @@
 
 https://docs.microsoft.com/en-us/azure/azure-stack
 
-https://cloudblogs.microsoft.com/windowsserver/2018/04/12/announcing-windows-admin-center-our-reimagined-management-experience
+https://stackshare.io/stacks
 
 https://azure.microsoft.com/en-us/solutions/architecture/hybrid-ci-cd
 
