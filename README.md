@@ -1,4 +1,4 @@
-# IT infrastructure related bookmarks
+# IT related bookmarks
 
 https://docs.microsoft.com/en-us/azure/azure-stack
 
