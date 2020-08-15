@@ -10,6 +10,6 @@ http://www.reddit.com/r/sysadmin
 
 https://www.reddit.com/r/linuxquestions
 
-https://www.reddit.com/r/programming
-
 https://www.reddit.com/r/learnjava
+
+https://dev.to/t/react
